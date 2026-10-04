@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://i.pinimg.com/1200x/59/14/9c/59149c03bb7ac2a49d5013c39657e600.jpg");
+}
+
+
+
+h1 {
+  text-align: center;
+    color: #ede9da;
+}
+
+h2 {
+color: #ede9da;
+padding-left: 10px;
+  
+}
+
+img {
+  height: 350px;
+border-radius: 15px;
+}
+p {
+  color: #ede9da;
+background-color: #8a6754;
+padding: 10px 10px;
+border-radius: 10px;
+
+}
+h3 {
+  color: #ffffff;
+}
